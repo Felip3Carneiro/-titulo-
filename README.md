@@ -1,6 +1,3 @@
-Mudanças Climáticas
-Projeto final Mudanças Climáticas - Python Pro - Kodland
-
 # Echo Score
 
 O Echo Score é um site com a proposta de transformar hábitos sustentáveis em uma experiência de jogo. A página convida as pessoas a adotar pequenas atitudes em favor do planeta e acompanhar seu progresso.
