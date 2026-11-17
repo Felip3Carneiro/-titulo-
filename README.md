@@ -25,4 +25,4 @@ A interface foi construída com HTML e CSS.
 
 ## Estado atual
 
-O projeto contém a interface visual da página inicial, do painel e do formulário de conta. O login, o cadastro e os recursos de progresso ainda não estão conectados a uma aplicação Python; portanto, os elementos visuais não representam funcionalidades já operacionais.
+Faltam algumas coisas
