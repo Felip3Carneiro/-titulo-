@@ -15,13 +15,10 @@ A área do jogador apresenta os principais elementos da experiência:
 - **Conquistas:** emblemas associados ao registro da primeira ação e ao alcance de cinco e doze ações.
 - **Conta:** interface para entrar ou criar uma conta.
 
-## Identidade visual
-
-O site usa uma identidade visual inspirada na natureza, com tons de verde, detalhes em cores vivas, elementos gráficos relacionados ao planeta e cartões para destacar pontuação, missões e ações. O layout também possui adaptações para telas menores.
-
 ## Tecnologias
 
-A interface foi construída com HTML e CSS.
+Front-end construída com HTML e CSS.
+Back-end construída com python e sqlquemy
 
 ## Estado atual
 
